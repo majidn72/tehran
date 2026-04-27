@@ -1,3 +1,2 @@
 # tehran
-tehran is a good city
-woooow 
+tehran is a good city 
